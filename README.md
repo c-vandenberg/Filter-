@@ -1,7 +1,7 @@
 # Filter-
 This project involved implementing a program that applies various filters to bitmap (BMP) image files. This involved iterating over each pixel in the image and manipulating them in a particular way.
 
-For example, the grayscale filter simply takes the average of the RGB values for each pixel, and sets them equal to this average. As all three hexadecimal values are equal, this results in varying shades of gray along the black-white spectrum. 
+For example, the grayscale filter simply takes the average of the RGB values for each pixel, and sets them equal to this average. As all three hexadecimal values are now equal, this results in varying shades of gray along the black-white spectrum. 
 
 The blur filter involved using a 3x3 pixel "blur box" by setting the hexadecimal colour value of each pixel to be an average of the all the pixels immediately around it.
 
